@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "devices": "Devices",
+    "settings": "Settings"
+  },
+  "dashboard": {
+    "title": "Dashboard"
+  },
+  "devices": {
+    "title": "Devices"
+  },
+  "settings": {
+    "title": "Settings"
+  }
+}

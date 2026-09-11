@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "dashboard": "仪表板",
+    "devices": "设备",
+    "settings": "设置"
+  },
+  "dashboard": {
+    "title": "仪表板"
+  },
+  "devices": {
+    "title": "设备"
+  },
+  "settings": {
+    "title": "设置"
+  }
+}
